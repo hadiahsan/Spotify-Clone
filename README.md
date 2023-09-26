@@ -39,9 +39,3 @@ This project replicates the user interface of Spotify, utilizing Next.js and Rea
      npm run dev
      ```
 
-## Available Commands
-
-You can run the following commands using npm:
-
-- **dev:** Starts a development instance of the app
-
