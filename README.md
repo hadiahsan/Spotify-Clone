@@ -9,7 +9,7 @@ This project replicates the user interface of Spotify, utilizing Next.js and Rea
 1. **Cloning the Repository:**
    - Clone the project repository using the following command:
      ```
-     git clone https://github.com/AntonioErdeljac/next13-spotify.git
+     git clone https://github.com/hadiahsan/spotify-clone.git
      ```
 
 2. **Install Packages:**
