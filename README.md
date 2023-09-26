@@ -2,7 +2,7 @@
 This project replicates the user interface of Spotify, utilizing Next.js and React to deliver a seamless user experience. Secure and dependable payment functionalities are integrated through Stripe, offering an upgraded premium service in the clone. The backend infrastructure uses Supabase and PostgreSQL, guaranteeing robust data management and scalable performance.
 
 
-Setup
+#Setup
 
 Node version 14.x
 
@@ -24,7 +24,7 @@ Use database.sql file, create songs and liked_songs table (there is a video tuto
 Start the app
 npm run dev
 Available commands
-Running commands with npm npm run [command]
+Running commands with npm run [command]
 
 command	description
 dev	Starts a development instance of the app
