@@ -31,7 +31,7 @@ This project replicates the user interface of Spotify, utilizing Next.js and Rea
      ```
 
 4. **Add SQL Tables:**
-   - Use the `database.sql` file and follow the instructions provided in the associated video tutorial to create the `songs` and `liked_songs` tables.
+   - Use the `database.sql` file to create the `songs` and `liked_songs` tables.
 
 5. **Start the App:**
    - Run the following command to start a development instance of the app:
